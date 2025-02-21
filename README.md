@@ -1,5 +1,5 @@
 # Taller_flores Streamlit
-### Esta aplicación es una herramienta de predicción desarrollada en Python y desplegada utilizando Streamlit, lo que permite una interfaz web interactiva y fácil de usar. En su núcleo, la aplicación emplea un modelo de aprendizaje automático previamente entrenado, específicamente un RandomForestClassifier, almacenado en un archivo .pkl.
+#### Esta aplicación es una herramienta de predicción desarrollada en Python y desplegada utilizando Streamlit, lo que permite una interfaz web interactiva y fácil de usar. En su núcleo, la aplicación emplea un modelo de aprendizaje automático previamente entrenado, específicamente un RandomForestClassifier, almacenado en un archivo .pkl.
 
 ## Capturas de pantallas:
 
